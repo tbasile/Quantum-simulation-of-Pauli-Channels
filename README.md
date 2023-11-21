@@ -11,4 +11,6 @@ The notebook "Parametrized Quantum Channels" is used to simulate curves of Pauli
 
 Finally, the notebook "Simulation of Pauli channels 2 qubits" produces a simulation of a specific Pauli channel for 2 qubits.
 
-The resulting data is found on the folder "Simulation-ibmq_lima", which includes the fidelities obtained for all the channels simulated.
+
+The resulting data is found on the folder "Simulation-ibmq_lima", which includes the fidelities obtained for all the channels simulated. 
+
